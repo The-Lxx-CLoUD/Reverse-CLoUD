@@ -12,7 +12,7 @@ import threading
 import base64
 import queue
 
-LHOST = "127.0.0.1"   # Remote Target
+LHOST = "0.0.0.0"   # dont change
 LPORT = 1080        # port
 XOR_KEY = 0           # Same password between client and server
 RESP_TIMEOUT = 60     # Response waiting timeout (seconds)
