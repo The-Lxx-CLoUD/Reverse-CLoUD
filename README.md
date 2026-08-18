@@ -1,4 +1,5 @@
-<h1 align="center">👁️ Reverse-CLoUD 👁️</h1>.
+<h1 align="center">👁️ Reverse-CLoUD 👁️</h1>
+
 
 <p align="center">
   <i>it's a Reverse Shell </i>
