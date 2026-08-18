@@ -21,7 +21,7 @@
 ❌ = optional -- voluntary
 
 server.py :
- line 15 = Remote Target ✅
+ line 15 = dont change ❌
  line 16 = Port ✅
  line 17 = Same password between client and server ✅
  line 18 = Response waiting timeout ❌
