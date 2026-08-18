@@ -21,19 +21,19 @@
 ❌ = optional -- voluntary
 
 server.py :
- line 15 = Remote Target
- line 16 = Port
- line 17 = Same password between client and server
- line 18 = Response waiting timeout 
+ line 15 = Remote Target ✅
+ line 16 = Port ✅
+ line 17 = Same password between client and server ✅
+ line 18 = Response waiting timeout ❌
 
 
 client.py :
- line 17 = server ip 
- line 18 = server port 
- line 19 = Same password between client and server
- line 20 = Interconnect latency limit (seconds)
- line 21 = Timeout for each command (seconds)
- line 22 = Disconnect after this period of silence (seconds)
+ line 17 = server ip ✅
+ line 18 = server port ✅
+ line 19 = Same password between client and server ✅
+ line 20 = Interconnect latency limit (seconds)❌
+ line 21 = Timeout for each command (seconds)❌
+ line 22 = Disconnect after this period of silence (seconds)❌
 ```
 
 
