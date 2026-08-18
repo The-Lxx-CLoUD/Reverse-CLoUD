@@ -2,17 +2,17 @@
 
 
 <p align="center">
-  <i>it's a Reverse Shell // need Port forwarding or vps </i>
+  <i>it's a Reverse Shell </i>
 </p>
 
 <img src="file's/ll.png" width="1080">
-
 
 <h1 align="center"> DEMO ⤵️</h1>
  <p align="center">
   <img src="file's/vidi.gif" width="1000">
   
 
+<h1 align="center"> need Port forwarding or vps </h1>
 
 
 ## 📃 Needs editing :
